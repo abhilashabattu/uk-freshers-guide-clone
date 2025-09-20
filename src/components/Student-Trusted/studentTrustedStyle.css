@@ -1,0 +1,30 @@
+
+
+.bg-trusted{
+  background: linear-gradient(to bottom, #300D4E, #3B0068);
+}
+
+.gradient-container{
+   background: linear-gradient(137deg, #390D5C, #4c137b);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.trusted-title{
+  color:#FFD700;
+  font-weight: 800;
+  font-size:4vw;
+}
+
+.stat-numbers{
+  color:#ff1493;
+  font-weight: 900;
+  font-size:4vw;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  
+}
+
+.stat-title{
+  color:#CCCCCC;
+  font-weight: 600;
+}
+

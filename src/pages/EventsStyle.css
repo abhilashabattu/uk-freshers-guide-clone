@@ -1,0 +1,46 @@
+.bg-eventsection {
+    background: linear-gradient(to bottom, #1E0039, #300D4E);
+
+}
+
+.event-title {
+    font-size: 5vw;
+    font-weight: 900;
+    background: linear-gradient(90deg, #ffd700 0%, #ff8c00 50%, #ff4500 100%);
+    background-clip: text;
+    color: transparent;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6);
+
+}
+
+.party_icon {
+    font-size: 6rem;
+    margin: 40px auto;
+    display: inline-block;
+    /* ✅ important */
+    filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.3));
+    animation: bounce 2s ease-in-out infinite;
+}
+
+@keyframes bounce {
+
+    0%,
+    100% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-15px);
+    }
+}
+
+/* Filter Section */
+
+.filter-section {
+    background: linear-gradient(137deg, #390D5C, #4c137b);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.fw-700{
+    font-weight: 800;
+}

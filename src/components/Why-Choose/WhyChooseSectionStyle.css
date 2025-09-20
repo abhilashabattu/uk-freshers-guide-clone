@@ -1,0 +1,42 @@
+.bg-color{
+    background: linear-gradient(to bottom, #400070 0%, #4a0080 50%, #6600cc 100%);
+    
+}
+
+.whychoose-title{
+  color:#FFD700;
+  font-weight: 900;
+  font-size:3vw;
+}
+
+.bg-card{
+   background-color:  #611E94 ;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+     transition: all 0.8s ease-in-out;
+}
+
+/* .bg-card {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid transparent;
+  border-radius: 16px;
+ 
+  backdrop-filter: blur(10px); 
+} */
+
+/* Hover effect */
+.bg-card:hover {
+  border: 1px solid #FFD700; /* Golden border */
+  background-color: #742896;
+  box-shadow: 0 0 20px rgba(255, 215, 0, 0.6); /* Golden glow */
+  transform: translateY(-10px) scale(1.05); /* Lift and zoom */
+  cursor: pointer;
+}
+
+.card-description{
+  font-size: 16px;
+  color:#cccccc;
+}
+
+.text-FFD700{
+  color:#FFD700;
+}

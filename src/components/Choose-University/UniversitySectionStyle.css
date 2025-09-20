@@ -1,0 +1,21 @@
+.bg-university{
+    background: linear-gradient(to bottom, #3B0068, #400070);
+}
+
+.gradient-university{
+   background: linear-gradient(137deg, #5A217A, #64297F);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+
+a{
+    text-decoration: none;
+    color:#333333;
+}
+
+.btn-city:hover{
+    background: linear-gradient(135deg, #ffd700, #ff1493);
+    border:1px solid #ffd700;
+    box-shadow: 0 10px 30px rgba(255, 215, 0, 0.3);
+    color:white ;
+}

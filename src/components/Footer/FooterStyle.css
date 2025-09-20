@@ -1,0 +1,71 @@
+.footer_container{
+    background: linear-gradient(135deg, #0d001a 0%, #2d0040 50%, #1a0033 100%);
+    border-top: 3px solid #ffd700;
+}
+
+.uk_title{
+    font-weight: 700;
+}
+
+.fs-15{
+    font-size: 15px;
+}
+
+.text-CCCCCC{
+    color:#CCCCCC;
+}
+
+.text-FFD700{
+    color:#FFD700;
+}
+
+.bg-btn{
+     background: linear-gradient(135deg, #ffd700, #ff1493);
+}
+
+.social_link{
+    background: linear-gradient(135deg, #4a0080, #ff1493);
+}
+
+.social_img{
+    max-width: 25px;
+}
+
+.footer-title {
+  position: relative;
+  display: inline-block;
+}
+
+.footer-title::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px; /* space below the text */
+  width: 30px;  /* underline length */
+  height: 3px;  /* underline thickness */
+  background-color: #FF1493; /* pink underline */
+  border-radius: 2px;
+}
+
+.footer-links ul li:hover {
+  color: #FF1493; /* text turns pink */
+}
+
+.email-input {
+  width: 100%;
+  max-width: 400px; 
+  border: 1px solid rgba(255, 255, 255, 0.3); 
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.05); 
+  transition: border 0.3s ease, background-color 0.3s ease;
+}
+
+.email-input::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.border-CCCCCC{
+    border-top: 0.2px solid #CCCCCC;
+}
+
+

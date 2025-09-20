@@ -1,0 +1,28 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.floating-icons {
+  position: fixed;
+  right: 30px;     
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1050;   /* Higher than Bootstrap navbar */
+  gap: 20px;       /* Bootstrap gap utilities work only with row/col grid, so CSS here */
+}
+
+.icon {
+  width: 53px;
+  height: 53px;
+  border-radius: 50%;
+  font-size: 28px;
+  background: linear-gradient(135deg, #ff512f, #dd2476);
+  color: white;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.icon:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
+}
