@@ -51,4 +51,28 @@ Follow these steps to set up the project locally:
    ```bash
    Navigate to http://localhost:3000 to view the application
 
+## Project Structure
+
+```bash
+	src/
+├── components/
+│   ├── header/               # Navigation header
+│   ├── Hero-Section/         # Main hero banner
+│   ├── Student-Trusted/      # Statistics section
+│   ├── Choose-University/    # City selection component
+│   ├── Why-Choose/           # Feature highlights
+│   ├── Bottom-Section/       # Additional content
+│   ├── Footer/               # Page footer
+│   └── FloatingIcons/        # Floating action buttons
+├── pages/                    # Route components
+│   ├── Home.jsx              # Homepage
+│   ├── Events.jsx            # Events page
+│   ├── Groups.jsx            # Groups page
+│   ├── Blogs.jsx             # Blogs page
+│   └── Contact.jsx           # Contact page
+├── assets/                   # Images and icons
+└── App.js                    # Main app component with routing
+└── README.md
+
+
    
