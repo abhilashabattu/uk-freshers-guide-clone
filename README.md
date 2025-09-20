@@ -6,7 +6,7 @@ A React-based clone of the UK Freshers Guide website, designed to help universit
 ![React Router](https://img.shields.io/badge/React_Router-7.9.1-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-##  Live Demo
+##  Demo
 
 https://github.com/user-attachments/assets/130af35f-cfe5-4e9c-b5c2-0290b8404fda
 
