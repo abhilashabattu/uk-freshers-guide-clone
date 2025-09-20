@@ -8,7 +8,7 @@ A React-based clone of the UK Freshers Guide website, designed to help universit
 
 ##  Live Demo
 
-[Add your live demo link here once deployed]
+https://github.com/user-attachments/assets/130af35f-cfe5-4e9c-b5c2-0290b8404fda
 
 
 ##  Features
