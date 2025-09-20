@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# UK Freshers Guide Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React-based clone of the UK Freshers Guide website, designed to help university students discover events, connect with communities, and make the most of their freshers experience across the UK.
 
-## Available Scripts
+![React](https://img.shields.io/badge/React-19.1.1-blue)
+![React Router](https://img.shields.io/badge/React_Router-7.9.1-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-In the project directory, you can run:
+##  Live Demo
 
-### `npm start`
+[Add your live demo link here once deployed]
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##  Features
 
-### `npm test`
+- **City Selection**: Browse freshers events by university city (46 cities supported)
+- **Responsive Design**: Mobile-friendly interface using Bootstrap
+- **Interactive Components**: Engaging UI with gradient backgrounds and hover effects
+- **Multi-page Routing**: Navigate between Home, Events, Groups, Blogs, and Contact pages
+- **Student Statistics**: Display impressive numbers about the student community
+- **Feature Highlights**: Six key reasons to use the platform with visual icons
+- **Floating Action Buttons**: Easy access to important actions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##  Technology Stack
 
-### `npm run build`
+- **Frontend Framework**: React 19.1.1
+- **Routing**: React Router DOM 7.9.1
+- **Build Tool**: Create React App
+- **Styling**: CSS3 with Bootstrap classes
+- **Icons**: Custom icon assets
+- **Testing**: React Testing Library
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##  Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Follow these steps to set up the project locally:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/uk-freshers-guide-clone.git
+   cd uk-freshers-guide-clone
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   
